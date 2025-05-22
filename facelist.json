@@ -1,0 +1,37 @@
+[
+  {
+    "id": "107940",
+    "name": "Calvin Verdonk",
+    "club": "NEC Nijmegen",
+    "image": "https://yourdomain.com/faces/calvin.png",
+    "zip_url": "calvin.zip"
+  },
+  {
+    "id": "Teja Paku Alam",
+    "name": "Teja Paku Alam",
+    "club": "Persib Bandung",
+    "image": "https://yourdomain.com/faces/taki.png",
+    "zip_url": "https://yourdomain.com/faces/taki.zip"
+  },
+  {
+    "id": "petar_atanasov",
+    "name": "Pablo Andrade",
+    "club": "Persija Jakarta",
+    "image": "https://yourdomain.com/faces/atanasov.png",
+    "zip_url": "https://yourdomain.com/faces/atanasov.zip"
+  },
+  {
+    "id": "fahri_yanuar",
+    "name": "Febri Hariyadi",
+    "club": "Persib Bandung",
+    "image": "https://yourdomain.com/faces/fahri.png",
+    "zip_url": "https://yourdomain.com/faces/fahri.zip"
+  },
+  {
+    "id": "fahri_yanuar",
+    "name": "Febri Hariyadi",
+    "club": "Persib Bandung",
+    "image": "https://yourdomain.com/faces/fahri.png",
+    "zip_url": "https://yourdomain.com/faces/fahri.zip"
+  }
+]
