@@ -33,5 +33,11 @@
     "club": "Persib Bandung",
     "image": "https://yourdomain.com/faces/fahri.png",
     "zip_url": "https://yourdomain.com/faces/fahri.zip"
-  }
+  },
+  {
+    "id": "fahri_yanuar",
+    "name": "Febri Hariyadi",
+    "club": "Persib Bandung",
+    "image": "https://yourdomain.com/faces/fahri.png",
+    "zip_url": "https://yourdomain.com/faces/fahri.zip"
 ]
