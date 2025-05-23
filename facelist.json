@@ -40,5 +40,19 @@
     "club": "Persija Jakarta",
     "image": "https://yourdomain.com/faces/david.png",
     "zip_url": "https://yourdomain.com/faces/david.zip"
+  },
+  {
+    "id": "90210",
+    "name": "Aditya Warman",
+    "club": "Persija Jakarta",
+    "image": "https://yourdomain.com/faces/david.png",
+    "zip_url": "https://yourdomain.com/faces/david.zip"
+  },
+  {
+    "id": "90205",
+    "name": "Hafizh Rizkianur",
+    "club": "Persija Jakarta",
+    "image": "https://yourdomain.com/faces/david.png",
+    "zip_url": "https://yourdomain.com/faces/david.zip"
   }
 ]
