@@ -33,5 +33,12 @@
     "club": "Persib Bandung",
     "image": "https://yourdomain.com/faces/david.png",
     "zip_url": "https://yourdomain.com/faces/david.zip"
+  },
+  {
+    "id": "hanif",
+    "name": "Hanif Sjahbandi",
+    "club": "Persija Jakarta",
+    "image": "https://yourdomain.com/faces/david.png",
+    "zip_url": "https://yourdomain.com/faces/david.zip"
   }
 ]
