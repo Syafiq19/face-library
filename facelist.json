@@ -1,6 +1,7 @@
 [
   {    
     "id": "90213",
+    "version": "v1",
     "name": "Agi Firmansyah",
     "club": "Persija Jakarta",
     "image": "https://www.dropbox.com/scl/fi/3qg228bz7x7w124vbl261/AgiFirmansyah.png?rlkey=rdw6p1tsygzn7px9f0fji5hoe&st=72q7i486&raw=1",
@@ -8,6 +9,7 @@
   },
   {
     "id": "52909",
+    "version": "v1",
     "name": "Andritani",
     "club": "Persija Jakarta",
     "image": "https://www.dropbox.com/scl/fi/wy7dwyxv6egu5hqj0gzdj/Andritani.png?rlkey=4mnrx8xvvlh77wuzmp1a1w72l&st=zdgiiz57&dl=1",
@@ -15,6 +17,7 @@
   },
   {
     "id": "107940",
+    "version": "v1",
     "name": "Calvin Verdonk",
     "club": "NEC Nijmegen",
     "image": "https://www.dropbox.com/scl/fi/eit1hqala03bncb1gtkfx/calvin.png?rlkey=qk6d2on7phad5vjc3sm0duqyw&st=fkgz64kr&raw=1",
@@ -22,6 +25,7 @@
   },
   {
     "id": "57891",
+    "version": "v1",
     "name": "Teja Paku Alam",
     "club": "Persib Bandung",
     "image": "https://www.dropbox.com/scl/fi/gu2vtmzndu9lffn4wfyt3/teja.png?rlkey=tv46audvtm6p4j0gbshn9aack&st=zukw712j&raw=1",
@@ -29,6 +33,7 @@
   },
   {
     "id": "37616",
+    "version": "v1",
     "name": "Pablo Andrade",
     "club": "Persija Jakarta",
     "image": "https://www.dropbox.com/scl/fi/2j4gjhx465e25xio6y6kd/andrade.png?rlkey=794a0iiomdrpxufe2fuy5f769&st=2lsh3rg6&raw=1",
@@ -36,6 +41,7 @@
   },
   {
     "id": "52917",
+    "version": "v1",
     "name": "Febri Hariyadi",
     "club": "Persib Bandung",
     "image": "https://www.dropbox.com/scl/fi/q0woknwyu2qv3inov1xi4/febri.png?rlkey=rkae2y1j1zb1pj3u2e2lxtu86&st=at412crp&raw=1",
@@ -43,6 +49,7 @@
   },
   {
     "id": "90367",
+    "version": "v1",
     "name": "Hanif Sjahbandi",
     "club": "Persija Jakarta",
     "image": "https://www.dropbox.com/scl/fi/ff70caxhzb0hwwa92iye3/hanif.png?rlkey=4qnwdxkb08smuin79vej4lq23&st=x1nb8w54&raw=1",
@@ -50,6 +57,7 @@
   },
   {
     "id": "90210",
+    "version": "v1",
     "name": "Aditya Warman",
     "club": "Persija Jakarta",
     "image": "https://www.dropbox.com/scl/fi/1oyowjbwcqxhkaxnu68g5/AdityaWarman.png?rlkey=kh98t1ulv10wme7nyfexuyn74&st=mpoj0knb&raw=1",
@@ -57,6 +65,7 @@
   },
   {
     "id": "90359",
+    "version": "v1",
     "name": "Hansamu Yama",
     "club": "Persija Jakarta",
     "image": "https://www.dropbox.com/scl/fi/2ycrhkoccmlt7qca1tftp/Hansamu.png?rlkey=lzo4m6fpj3csvp3mjf5erztbd&st=n6ze3vhk&raw=1",
@@ -64,6 +73,7 @@
   },
   {
     "id": "63822",
+    "version": "v1",
     "name": "Stefano Lilipaly",
     "club": "Borneo FC",
     "image": "https://www.dropbox.com/scl/fi/ohgq824nsl0e3ka5baycc/Lilipaly.png?rlkey=o402u6doxqpnpix1him5e6di5&st=u0p2o70x&raw=1",
