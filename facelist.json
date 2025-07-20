@@ -86,5 +86,85 @@
     "club": "Borneo FC",
     "image": "https://www.dropbox.com/scl/fi/ohgq824nsl0e3ka5baycc/Lilipaly.png?rlkey=o402u6doxqpnpix1him5e6di5&st=u0p2o70x&raw=1",
     "zip_url": "https://www.dropbox.com/scl/fi/vs3ty4525abu6spobgvyo/Lilipaly.zip?rlkey=nzae71vsorw32a3wcvxomgb5l&st=mpq0sog3&dl=1"
+  },
+  {
+    "id": "162114",
+    "version": "v1",
+    "name": "Lamine Yamal",
+    "club": "FC Barcelona",
+    "image": "",
+    "zip_url": "https://www.dropbox.com/scl/fi/xk7z6kaj19opogs65zhqy/Yamal.zip?rlkey=axsr8fopfhofdkjl02xiroqig&dl=1"
+  },
+  {
+    "id": "171620",
+    "version": "v1",
+    "name": "Raul Ascensio",
+    "club": "Real Madrid",
+    "image": "",
+    "zip_url": "https://www.dropbox.com/scl/fi/kmxf9v8zc47qgeq1cmr9v/RaulAscensio.zip?rlkey=kj2xhywna5dqyztg4ew46cb9y&st=9111828j&dl=1"
+  },
+  {
+    "id": "146650",
+    "version": "v1",
+    "name": "Milos Kerkez",
+    "club": "Liverpool",
+    "image": "",
+    "zip_url": "https://www.dropbox.com/scl/fi/lg1b0uzf0nbjfj6q4o4zq/MilosKerkez.zip?rlkey=rb6n6b8d8imkr5t508yukq1ab&st=a73q49wy&dl=1"
+  },
+  {
+    "id": "126570",
+    "version": "v1",
+    "name": "Samuele Ricci",
+    "club": "AC Milan",
+    "image": "",
+    "zip_url": "https://www.dropbox.com/scl/fi/4i3l3yk243nb1jm29qnfx/SamueleRicci.zip?rlkey=6p2dz2mgkpqkb51slaxrfjm4e&dl=1"
+  },
+  {
+    "id": "120439",
+    "version": "v1",
+    "name": "Christian Nordgaard",
+    "club": "Arsenal",
+    "image": "",
+    "zip_url": "https://www.dropbox.com/scl/fi/40l1wj50mobd9bxrdgn5c/ChristianNordgaard.zip?rlkey=mjp45c5t0sh7mjg0bntk65ap3&dl=1"
+  },
+  {
+    "id": "142763",
+    "version": "v1",
+    "name": "Francisco Conceicao",
+    "club": "Juventus",
+    "image": "",
+    "zip_url": "https://www.dropbox.com/scl/fi/8gvck38a3f7erp4pig7wa/ConceiCao.zip?rlkey=sje4dnfbi0a9mbzyomowab7s1&dl=1"
+  },
+  {
+    "id": "122333",
+    "version": "v1",
+    "name": "Bryan Mbeumo",
+    "club": "Manchester United",
+    "image": "",
+    "zip_url": "https://www.dropbox.com/scl/fi/0keijtocs27acb1wwcio6/BryanMbeumo.zip?rlkey=jb8d634r7u7ui0340xwtmbjbx&dl=1"
+  },
+  {
+    "id": "119531",
+    "version": "v1",
+    "name": "Matheus Cunha",
+    "club": "Manchester United",
+    "image": "",
+    "zip_url": "https://www.dropbox.com/scl/fi/8h6awvfydhycdu9skrif8/MatheusCunha.zip?rlkey=446vu3h3efu17qlevc2xhczwh&dl=1"
+  },
+  {
+    "id": "127787",
+    "version": "v1",
+    "name": "Joao Pedro",
+    "club": "Chelsea",
+    "image": "",
+    "zip_url": "https://www.dropbox.com/scl/fi/vpvsv5t3r1rmgbb6mebtm/JoaoPedro.zip?rlkey=ytu5yixgeo0w7if2lit8jbx2h&dl=1"
+  },
+  {
+    "id": "128463",
+    "version": "v1",
+    "name": "Jhon Duran",
+    "club": "Fenerbahce SK",
+    "image": "",
+    "zip_url": "https://www.dropbox.com/scl/fi/kb4esudfim7v3u1t20zt1/Durran.zip?rlkey=ue6tdjx3ueo1xgtv5ilyfpxlr&dl=1"
   }
 ]
